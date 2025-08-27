@@ -1,2 +1,2 @@
-BASE_URL = "https://demo.sellingo.pl"
-REGISTRATION_URL = "https://demo.sellingo.pl/rejestracja"
+BASE_URL = "sellingo home page"
+REGISTRATION_URL = "sellingo registration page"
