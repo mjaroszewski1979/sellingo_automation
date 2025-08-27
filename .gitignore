@@ -1,0 +1,30 @@
+# --- Python cache / build ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+build/
+dist/
+
+# --- Virtual envs ---
+.venv/
+venv/
+env/
+
+# --- Pytest / coverage / reports ---
+.pytest_cache/
+.coverage
+htmlcov/
+reports/
+junit*.xml
+
+# --- IDE / OS junk ---
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+
