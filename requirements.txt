@@ -2,7 +2,3 @@ selenium==4.6
 pytest==8.2.0
 faker==25.8.0
 python-dotenv==1.0.1
-
-pytest -v --browser=chrome --headed
-
-teraz napisz komentarze w identycznym stylu jak powyzej do tego pliku: 
