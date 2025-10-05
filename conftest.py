@@ -14,7 +14,7 @@ from config.config import BASE_URL, REGISTRATION_URL
 CHROME_DRIVER_PATH = r"C:\Users\mjaro\Desktop\selling_zadanie\chromedriver.exe"
 EDGE_DRIVER_PATH = r"C:\WebDrivers\msedgedriver.exe"
 FIREFOX_DRIVER_PATH = r"C:\WebDrivers\geckodriver.exe"
-MY_PATH = r"C:\WebDrivers\geckodriver.exe"
+
 
 
 
