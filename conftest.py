@@ -15,7 +15,7 @@ CHROME_DRIVER_PATH = r"C:\Users\mjaro\Desktop\selling_zadanie\chromedriver.exe"
 EDGE_DRIVER_PATH = r"C:\WebDrivers\msedgedriver.exe"
 FIREFOX_DRIVER_PATH = r"C:\WebDrivers\geckodriver.exe"
 MY_PATH = r"C:\WebDrivers\geckodriver.exe"
-MY_NEW_PATH = r"C:\WebDrivers\geckodriver.exe"
+
 
 
 def _make_driver(browser: str, headed: bool):
